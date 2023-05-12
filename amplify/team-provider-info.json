@@ -13,7 +13,6 @@
     },
     "categories": {
       "function": {
-        "customerHandler": {},
         "lambda8020prcnt": {}
       }
     }

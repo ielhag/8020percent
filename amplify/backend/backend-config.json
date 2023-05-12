@@ -16,12 +16,6 @@
     }
   },
   "function": {
-    "customerHandler": {
-      "build": true,
-      "dependsOn": [],
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    },
     "lambda8020prcnt": {
       "build": true,
       "providerPlugin": "awscloudformation",
