@@ -13,7 +13,13 @@
     },
     "categories": {
       "function": {
-        "lambda8020prcnt": {}
+        "lambda8020prcnt": {
+          "deploymentBucketName": "amplify-amplifye13de77cbd654-staging-183102-deployment",
+          "s3Key": "amplify-builds/lambda8020prcnt-4b7765514d614b30396f-build.zip"
+        }
+      },
+      "api": {
+        "resapi8020prcnt": {}
       }
     }
   }

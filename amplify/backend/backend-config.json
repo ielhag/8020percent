@@ -21,5 +21,23 @@
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
     }
+  },
+  "parameters": {
+    "AMPLIFY_function_lambda8020prcnt_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "lambda8020prcnt"
+        }
+      ]
+    },
+    "AMPLIFY_function_lambda8020prcnt_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "lambda8020prcnt"
+        }
+      ]
+    }
   }
 }
